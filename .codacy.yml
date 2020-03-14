@@ -1,0 +1,12 @@
+---
+exclude_paths:
+  - 'app/**'
+  - 'bootstrap/**'
+  - 'config/**'
+  - 'database/**'
+  - 'public/**'
+  - 'resources/**'
+  - 'routes/**'
+  - 'storage/**'
+  - 'tests/**'
+  - 'vendor/**'
