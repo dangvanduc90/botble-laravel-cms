@@ -1,0 +1,9 @@
+{
+    "name": "Comments",
+    "namespace": "Botble\\Comments\\",
+    "provider": "Botble\\Comments\\Providers\\CommentsServiceProvider",
+    "author": "Sang Nguyen",
+    "url": "https://sangnguyen.info",
+    "version": "1.0",
+    "description": "The description for module comments"
+}
